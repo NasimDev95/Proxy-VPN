@@ -1,0 +1,6 @@
+{
+  "name": "ProxyVpn",
+  "description": "Personal VPN app routing IPv4 traffic through custom HTTP or SOCKS5 proxy",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

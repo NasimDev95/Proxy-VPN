@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProxyVpn</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_error">Error</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="settings">Settings</string>
+    <string name="proxy_url">Proxy URL</string>
+    <string name="proxy_username">Proxy Username (Optional)</string>
+    <string name="proxy_password">Proxy Password (Optional)</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="test_connection">Test Connection</string>
+    <string name="testing_connection">Testing connection...</string>
+    <string name="bytes_sent">Sent</string>
+    <string name="bytes_received">Received</string>
+    <string name="notification_channel_name">VPN Connection</string>
+    <string name="notification_channel_desc">Shows ongoing ProxyVpn status</string>
+</resources>
